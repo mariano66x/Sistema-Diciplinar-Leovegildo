@@ -1,4 +1,4 @@
-const senhaCorreta = "Leovegildo1234"; // Você escolhe a senha
+const senhaCorreta = "Leovegildo1234@"; // Você escolhe a senha
 
 if (!localStorage.getItem('logado')) {
     const senha = prompt("🔐 Digite a senha para acessar o sistema:");
